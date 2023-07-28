@@ -1,7 +1,0 @@
-echo "# airtravel-html-css-flex-grid" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ebour1/airtravel-html-css-flex-grid.git
-git push -u origin main
